@@ -1,0 +1,119 @@
+{
+	"apps": [
+    {
+      "name": "Secondary node 0",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 1",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 2",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 3",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 4",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 5",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 6",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 7",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 8",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 9",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 8",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 9",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 10",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 11",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 12",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 13",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 14",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 100",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 101",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 102",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 103",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 104",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 105",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 106",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 107",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 108",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 109",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 110",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 111",
+      "script": "secondary_node_Appr.py",
+    }]
+}

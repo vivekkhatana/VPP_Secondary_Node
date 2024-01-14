@@ -1,0 +1,51 @@
+{
+	"apps": [
+    {
+      "name": "Secondary node 100",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 101",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 102",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 103",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 104",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 105",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 106",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 107",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 108",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 109",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 110",
+      "script": "secondary_node_Appr.py",
+    },
+    {
+      "name": "Secondary node 111",
+      "script": "secondary_node_Appr.py",
+    }]
+}

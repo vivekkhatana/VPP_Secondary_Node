@@ -1,0 +1,63 @@
+{
+	"apps": [
+    {
+      "name": "Secondary node 0",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 1",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 2",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 3",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 4",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 5",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 6",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 7",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 8",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 9",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 10",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 11",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 12",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 13",
+      "script": "secondary_node_SecControl.py",
+    },
+    {
+      "name": "Secondary node 14",
+      "script": "secondary_node_SecControl.py",
+    }]
+}

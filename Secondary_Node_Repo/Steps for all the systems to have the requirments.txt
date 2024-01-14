@@ -1,0 +1,4 @@
+py -m pip --version
+py -m pip install --upgrade pip setuptools wheel
+py -m pip install numpy
+py -m pip install configparser
